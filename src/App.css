@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Roboto{
+  font-family: "Roboto", sans-serif;
+}
+.Nunito{
+  font-family: "Nunito", sans-serif;
+}
+.Poppins{
+
+  font-family: "Poppins", sans-serif;
+}
